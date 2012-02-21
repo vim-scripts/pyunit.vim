@@ -1,0 +1,20 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3949
+
+****************
+ pyunit.vim
+****************
+:VERSION: 0.1.0
+
+A simple compiler for Python unittest on VIM. Useful to use with vim-makegreen_
+Original script is found on http://ftp.twaren.net/vim/runtime/compiler/pyunit.vim
+
+See http://blog.staz.be/?post/2010/09/04/Python-unit-test-and-vim for find how to use it with vim-makegreen_
+
+.. _vim-makegreen: https://github.com/reinh/vim-makegreen
+
+how to install
+============================
+use vundle_ or pathogen_ is recommended or simply extract to your vim directory
+
+.. _vundle: https://github.com/gmarik/vundle
+.. _pathogen: http://www.vim.org/scripts/script.php?script_id=2332
